@@ -1,6 +1,6 @@
 package ControlElevator;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         Elevator[] evenElevators = new Elevator[3];
         Elevator[] oddElevators = new Elevator[3];
