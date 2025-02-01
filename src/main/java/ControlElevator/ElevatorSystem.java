@@ -1,6 +1,6 @@
 package ControlElevator;
 
-public class ElevatorSystem implements Call {
+public class ElevatorSystem implements Step {
     private Elevator[] evenFloorElevators;
     private Elevator[] oddFloorElevators;
     private Elevator[] staffElevators;
